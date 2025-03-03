@@ -13,5 +13,5 @@
       "binding": "demo_sample",
       "id": "cf089e84737c4ba695768cc62265abfe"
     }
-  ]
+  ],"env": {"dev":{"name":"my-app"}}
 }
