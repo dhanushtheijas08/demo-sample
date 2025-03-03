@@ -96,6 +96,8 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer>
+
+      <p>Next JS: {process.env.NEXT_PUBLIC_SAMPLE}</p>
     </div>
   );
 }
